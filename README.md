@@ -17,7 +17,7 @@
   - Copyright Number - C-2023-023411
   - Original - https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/swRscOtct/swRscOtctDtl.xml 
 - Undergraduate student at HCI Lab (2022.08 ~ )
-- Sensor information collection and survey platform with Kangwon National University and UNIST (2022.03 ~ 2023.06)
+- Sensor information collection and survey platform with Kangwon National University and UNIST (2023.03 ~ Scheduled 2023.06)
 
 ### 🛠 Teck Stacks
 
