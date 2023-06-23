@@ -84,7 +84,7 @@
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhks33rhs">
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuKwanKon&theme=chartreuse-dark&layout=compact&hide=HTML)](https://github.com/RyuKwanKon/)
+[![RyuKwanKon github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuKwanKon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=merko)](https://github.com/RyuKwanKon)
 
 <!--
 **RyuKwanKon/RyuKwanKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
