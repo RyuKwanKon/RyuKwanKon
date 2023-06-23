@@ -1,4 +1,4 @@
-# KwanKon
+# 🐹 Hi~
 
 ---
 
@@ -31,14 +31,13 @@
 
 ### Libraries & Frameworks
 <p>
-<img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white" width=auto height=23px/>
+<img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width=auto height=23px/>
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" width=auto height=23px/>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" width=auto height=23px/>
 
-  react
 </p>
 
 ### Platforms
@@ -50,6 +49,7 @@
 ### Tools 
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF" width=auto height=23px/>
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=XCode&logoColor=FFFFFF" width=auto height=23px/>
@@ -78,6 +78,7 @@
 <a href="https://solved.ac/profile/rhks33rhs">
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhks33rhs">
 </a>
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=RyuKwanKon&count_private=true&theme=chartreuse-dark)](https://github.com/RyuKwanKon/)
 
 <!--
