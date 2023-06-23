@@ -1,10 +1,20 @@
-# Welcome!
-<br>
+# KwanKon
 
-#### I'm majoring in Department of Software, Gachon University.
+---
 
-<br>
-<p>I want to be a competent developer who can solve problems on my own. </p> 
+### 👨‍💻 About 👨‍💻
+
+- 🙃 I am majoring in software at Gachon University.
+- 🖥 I want to be a backend developer who knows how to handle infrastructure.
+- 🔥 Currently, I have experienced collaboration with many people mainly using React JS, Spring.
+- 😆 I want to develop it while enjoying it with everyone.
+
+### Career
+
+- 🏡 Gachon University (2019.03 ~ )
+- 🧡 Establishing a monitoring platform with Asan Medical Center in Seoul (2022.06 ~ 2022.10)
+- 🧑‍💻 Undergraduate student at HCI Lab (2022.08 ~ )
+- 🔥 Sensor information collection and survey platform with Kangwon National University and UNIST (2022.03 ~ Scheduled 2023.06)
 
 ## 🛠 Teck Stacks
 
@@ -21,7 +31,7 @@
 
 ### Libraries & Frameworks
 <p>
-<img src="https://img.shields.io/badge/ReactJS-#61DAFB.svg?style=for-the-badge&logo=React&logoColor=white" width=auto height=23px/>
+<img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width=auto height=23px/>
@@ -60,12 +70,14 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width=auto height=23px/>
-<img src="https://img.shields.io/badge/kubernetes-%#326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" width=auto height=23px/>
+<img src="https://img.shields.io/badge/kubernetes-%326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" width=auto height=23px/>
 </p>
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhks33rhs)](https://solved.ac/rhks33rhs)
+<a href="https://solved.ac/profile/rhks33rhs">
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhks33rhs">
+</a>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=RyuKwanKon&count_private=true&theme=chartreuse-dark)](https://github.com/RyuKwanKon/)
 
 <!--
