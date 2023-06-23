@@ -1,22 +1,30 @@
-# 🐹 Hi~
+## 🐹 KwanKon
 
 ---
 
 ### 👨‍💻 About 👨‍💻
 
+---
+
 - 🙃 I am majoring in software at Gachon University.
 - 🖥 I want to be a backend developer who knows how to handle infrastructure.
 - 🔥 Currently, I have experienced collaboration with many people mainly using React JS, Spring.
 - 😆 I want to develop it while enjoying it with everyone.
+- 💬 Email: rhks33rhs@gmail.com
 
 ### Career
 
+---
+
 - 🏡 Gachon University (2019.03 ~ )
 - 🧡 Establishing a monitoring platform with Asan Medical Center in Seoul (2022.06 ~ 2022.10)
+- - A
 - 🧑‍💻 Undergraduate student at HCI Lab (2022.08 ~ )
 - 🔥 Sensor information collection and survey platform with Kangwon National University and UNIST (2022.03 ~ Scheduled 2023.06)
 
-## 🛠 Teck Stacks
+### 🛠 Teck Stacks
+
+---
 
 ### Languages
 <p>
@@ -78,8 +86,6 @@
 <a href="https://solved.ac/profile/rhks33rhs">
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhks33rhs">
 </a>
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=RyuKwanKon&count_private=true&theme=chartreuse-dark)](https://github.com/RyuKwanKon/)
 
 <!--
 **RyuKwanKon/RyuKwanKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
