@@ -64,6 +64,7 @@
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhks33rhs)](https://solved.ac/rhks33rhs)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=RyuKwanKon&count_private=true&theme=chartreuse-dark)](https://github.com/RyuKwanKon/)
 
 <!--
 **RyuKwanKon/RyuKwanKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
