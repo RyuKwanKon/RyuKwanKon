@@ -1,7 +1,3 @@
-## 🐹 KwanKon
-
----
-
 ### 👨‍💻 About 👨‍💻
 
 ---
@@ -16,11 +12,12 @@
 
 ---
 
-- 🏡 Gachon University (2019.03 ~ )
-- 🧡 Establishing a monitoring platform with Asan Medical Center in Seoul (2022.06 ~ 2022.10)
-- - A
-- 🧑‍💻 Undergraduate student at HCI Lab (2022.08 ~ )
-- 🔥 Sensor information collection and survey platform with Kangwon National University and UNIST (2022.03 ~ Scheduled 2023.06)
+- Gachon University (2019.03 ~ )
+- Establishing a monitoring platform with Asan Medical Center in Seoul (2022.06 ~ 2022.10)
+  - Copyright Number - Patent number
+  - Original - https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/swRscOtct/swRscOtctDtl.xml 
+- Undergraduate student at HCI Lab (2022.08 ~ )
+- Sensor information collection and survey platform with Kangwon National University and UNIST (2022.03 ~ Scheduled 2023.06)
 
 ### 🛠 Teck Stacks
 
