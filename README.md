@@ -79,7 +79,7 @@
 </p>
 
 ---
-<p>
+<p align="start">
   <a href="https://solved.ac/profile/rhks33rhs">
     <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhks33rhs">
   </a>
