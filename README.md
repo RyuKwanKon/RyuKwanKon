@@ -8,26 +8,33 @@
 
 ## 🛠 Teck Stacks
 
-<h3> Languages </h3>
+### Languages
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Java-FF9900?style=flat-square&logo=JAVA&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF" width=auto height=23px/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   </p>
-<h3> Frameworks </h3>
+### Libraries & Frameworks
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF" width=auto height=23px/>
+![React.js](https://img.shields.io/badge/ReactJS-#61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=FFFFFF" width=auto height=23px/>
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+  react
 </p>
-<h3> Platforms </h3>
+### Platforms
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=FFFFFF" width=auto height=23px/>
 </p>
-<h3> Tools </h3>
+### Tools 
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=FFFFFF" width=auto height=23px/>
@@ -37,7 +44,7 @@
 
 
 </p>
-<h3> ETC. </h3>
+**** ETC.
 <p>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF" width=auto height=23px/>
@@ -46,10 +53,11 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon ec2&logoColor=FFFFFF" width=auto height=23px/>
   
 </p>
-<h3> Studying</h3>
+**** Studying
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=FFFFFF" width=auto height=23px/>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </p>
 
 ---
