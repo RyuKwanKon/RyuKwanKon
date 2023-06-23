@@ -61,6 +61,7 @@
 <p>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF" width=auto height=23px/>
+<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon ec2&logoColor=FFFFFF" width=auto height=23px/>  
