@@ -13,11 +13,16 @@
 ---
 
 - Gachon University (2019.03 ~ )
+- Undergraduate student at HCI Lab (2022.08 ~ )
+- Sensor information collection and survey platform with Kangwon National University and UNIST (2023.03 ~ 2023.06)
+
+### Project
+
+---
+
 - Establishing a monitoring platform with Asan Medical Center in Seoul (2022.06 ~ 2022.10)
   - Copyright Number - C-2023-023411
   - Original - https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/swRscOtct/swRscOtctDtl.xml 
-- Undergraduate student at HCI Lab (2022.08 ~ )
-- Sensor information collection and survey platform with Kangwon National University and UNIST (2023.03 ~ 2023.06)
 - DND[개발 협업 동아리] (2023.07 ~ )
 
 ### 🛠 Teck Stacks
