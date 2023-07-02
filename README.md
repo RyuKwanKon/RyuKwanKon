@@ -14,7 +14,7 @@
 
 - Gachon University (2019.03 ~ )
 - Undergraduate student at HCI Lab (2022.08 ~ )
-- DND[개발 협업 동아리] (2023.07 ~ )
+- DND 9기[개발 협업 동아리] (2023.07 ~ )
 
 ### Project
 
