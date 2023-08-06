@@ -23,7 +23,9 @@
 - Establishing a monitoring platform with Asan Medical Center in Seoul (2022.06 ~ 2022.10)
   - Copyright Number - C-2023-023411
   - Original - https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/swRscOtct/swRscOtctDtl.xml
-- Sensor information collection and survey platform with Kangwon National University and UNIST (2023.03 ~ 2023.06)
+- Sensor information collection and survey platform with Kangwon National University and UNIST (2023.03 ~ 2023.07)
+  - https://play.google.com/store/apps/details?id=com.gachon_HCI_Lab.wear_os_sensor
+- [DND 9기] Baggle 개발 중 (2023.07 ~ )
 
 ### 🛠 Teck Stacks
 
