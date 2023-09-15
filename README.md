@@ -14,7 +14,7 @@
 
 - Gachon University (2019.03 ~ )
 - Undergraduate student at HCI Lab (2022.08 ~ )
-- DND 9기[개발 협업 동아리] (2023.07 ~ )
+- DND 9기[개발 협업 동아리] (2023.07 ~ 2023.08.26)
 - 큐시즘 28기[it 연합 동아리] (2023.08.26 ~ )
 
 ### Project
