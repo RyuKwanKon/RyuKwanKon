@@ -26,6 +26,7 @@
 - Sensor information collection and survey platform with Kangwon National University and UNIST (2023.03 ~ 2023.07)
   - https://play.google.com/store/apps/details?id=com.gachon_HCI_Lab.wear_os_sensor
 - [DND 9기] Baggle(v0.0.1) 이벤트를 통해 약속을 재밌게 만들어주는 약속 관리 서비스 (2023.07 ~ 2023.09.28)
+  - https://apps.apple.com/kr/app/baggle/id6461166641
 
 ### 🛠 Teck Stacks
 
