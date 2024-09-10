@@ -26,9 +26,7 @@
 - Establishing a monitoring platform with Asan Medical Center in Seoul (2022.06 ~ 2022.10)
   - Copyright Number - C-2023-023411
 - Sensor information collection and survey platform with Kangwon National University and UNIST (2023.03 ~ 2023.07)
-  - https://play.google.com/store/apps/details?id=com.gachon_HCI_Lab.wear_os_sensor
 - [DND 9기] Baggle(v0.0.1) 이벤트를 통해 약속을 재밌게 만들어주는 약속 관리 서비스 (2023.07 ~ 2023.09.28)
-  - https://apps.apple.com/kr/app/baggle/id6461166641
 - [큐시즘 28기] 기업프로젝트 - ADHD 자가진단 서비스 개선
 - [큐시즘 28기] 최종프로젝트 - 회의록 공유 서비스, MeeptPL
 - [SW 아카데미 4기] 멘토링 프로젝트 - 개발자들의 작은 섬, molDev
