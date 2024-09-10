@@ -16,7 +16,8 @@
 - Undergraduate student at HCI Lab (2022.08 ~ )
 - DND 9기[개발 협업 동아리] (2023.07 ~ 2023.08.26)
 - 큐시즘 28기[it 연합 동아리] (2023.08.26 ~ 2023.12.05)
-- 렛츠커리 백엔드 개발자 (2024.04.01 ~ )
+- SW 아카데미 (2024.03.03 ~ 2024.08.23)
+- 렛츠커리 백엔드 개발자 (2024.03.03 ~ 진행 중)
 
 ### Project
 
@@ -53,19 +54,7 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width=auto height=23px/>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF" width=auto height=23px/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" width=auto height=23px/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" width=auto height=23px/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF" width=auto height=23px/>
-</p>
-
-### Tools 
-<p>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF" width=auto height=23px/>
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=XCode&logoColor=FFFFFF" width=auto height=23px/>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=FFFFFF" width=auto height=23px/>
 </p>
 
 ### ETC.
